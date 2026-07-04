@@ -1,0 +1,8 @@
+¿Qué evento activa el flujo?
+Respuesta:Cuando un reporte ciudadano alcanza el número de votos establecido para ser considerado una prioridad dentro de la comunidad.
+
+¿Qué mensaje se enviaría a Telegram?
+Respuesta:"Un reporte ha alcanzado el nivel de prioridad definido por la comunidad. Ingrese al sistema para revisar el caso y realizar el seguimiento correspondiente."
+
+¿Qué información no debería enviarse por seguridad?
+Respuesta:No deben enviarse nombres completos, números de identificación, direcciones, teléfonos, correos electrónicos, fotografías que permitan identificar a las personas que votaron, ni ningún otro dato sensible. De esta manera, se evita la exposición de información que pueda generar riesgos o afectar la confianza de la comunidad en la plataforma.

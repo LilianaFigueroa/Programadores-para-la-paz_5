@@ -1,0 +1,7 @@
+1. Como ciudadano quiero apoyar con mi voto los reportes que afectan a más personas para ayudar al equipo a identificar las problemáticas más importantes de la comunidad.
+
+2. Como líder comunitario quiero generar un resumen de los reportes recibidos y de los que tienen mayor apoyo ciudadano para identificar las problemáticas más frecuentes de la comunidad.
+
+3. Como coordinador quiero consultar indicadores sobre el tiempo de respuesta de los reportes priorizados para evaluar el desempeño del equipo y detectar oportunidades de mejora.
+
+4. Como ciudadano quiero recibir una notificación cuando mi reporte tenga una actualización para mantenerme informado sobre el avance del caso y las acciones realizadas.
