@@ -1,0 +1,23 @@
+
+La interfaz estaría organizada de una manera clara y 
+sencilla para facilitar que la comunidad pueda participar 
+y comprender cada proceso sin dificultad. En ella habría 
+un formulario para registrar un nuevo reporte, donde el 
+ciudadano pueda escribir un título, la fecha de registro, 
+una descripción con un límite de palabras considerable 
+y seleccionar la categoría correspondiente a la situación 
+que desea informar.
+
+Una vez publicado, el reporte pasaría a un espacio o ruta donde 
+los demás ciudadanos podrían conocer las diferentes 
+situaciones que se presentan en la comunidad y por medio 
+de un botón de votación, indicar cuáles consideran que 
+requieren mayor atención. A medida que las personas 
+participen, la plataforma mostraría la cantidad de votos 
+que ha recibido cada reporte, permitiendo identificar las 
+problemáticas que la comunidad considera más urgentes y 
+facilitando la organización de las acciones que debe 
+desarrollar el equipo de veeduría. Todo esto se realizaría 
+sin exponer información personal de los ciudadanos, 
+promoviendo una participación segura, organizada y 
+transparente.

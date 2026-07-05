@@ -1,0 +1,19 @@
+El login en una aplicación representa el punto de acceso que 
+permite reconocer quién está ingresando al sistema antes de 
+interactuar con él, ya que no todas las personas cumplen el 
+mismo rol ni requieren acceder a la misma información. 
+
+Por ello, algunas rutas deben permanecer protegidas debido a 
+que contienen procesos, registros o herramientas que hacen parte 
+del funcionamiento interno (backend) de la plataforma y que solo 
+deberían estar disponibles para quienes tienen autorización 
+para utilizarlas. 
+
+De igual manera, la información sensible de la comunidad 
+no debe exponerse públicamente, ya que esto puede afectar 
+la privacidad, la confianza y el propósito con el que fue 
+compartida. Datos como contraseñas, documentos de identidad, 
+teléfonos, direcciones, claves de acceso o cualquier otra 
+información personal delicada deben mantenerse protegidas y 
+utilizarse únicamente cuando sea necesario y solo para el 
+fin con el que fueron recopiladas.

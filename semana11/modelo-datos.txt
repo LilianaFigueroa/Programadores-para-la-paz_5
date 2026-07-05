@@ -1,0 +1,29 @@
+Entidad: Reporte ciudadano
+
+Campos principales:
+- id
+- título
+- descripción
+- Categoría del reporte
+- Fecha de registro
+- Estado del proceso
+
+Propósito:
+Guardar la información de los reportes realizados por la 
+comunidad, permitiendo así organizar las problemáticas 
+identificadas y realizar seguimiento a las necesidades que 
+se presentan.
+
+Entidad: Votación comunitaria
+
+Campos principales:
+- id
+- Reporte_id
+- usuario
+- fecha del voto
+
+Propósito:
+Registrar los apoyos que recibe cada reporte por parte de 
+la comunidad, permitiendo así identificar cuáles problemáticas 
+requieren mayor atención y facilitando la priorización de 
+las acciones por parte del equipo de veeduría.

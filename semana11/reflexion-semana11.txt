@@ -1,0 +1,17 @@
+Una plataforma tecnológica requiere promover la participación
+ciudadana de manera segura y transparente, ya que de esta manera
+la comunidad puede confiar en los procesos que se desarrollan y
+participar con mayor tranquilidad. Por ello, una base de datos
+no solo almacena información, sino que también reúne datos que
+requieren un manejo responsable, debido a que si no se recopilan,
+utilizan y protegen de la manera adecuada pueden afectar la privacidad 
+de los usuarios e incluso generar problemas legales.
+
+De este modo, las plataformas necesitan contar con procesos de autenticación 
+que permitan reconocer quién está ingresando al sistema y qué funciones puede 
+realizar dentro de él. Esto permite que cada persona acceda únicamente a la 
+información y a las herramientas que realmente necesita según el rol que 
+desempeña, ya sea como ciudadano, administrador o integrante del equipo de 
+veeduría. Así, no solo se protege la información de la comunidad, sino que 
+también se fortalece la confianza en la plataforma y en los procesos que se 
+desarrollan a través de ella.
